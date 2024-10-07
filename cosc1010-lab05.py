@@ -2,7 +2,7 @@
 # UWYO COSC 1010
 # 10/7/2024
 # Lab 03 
-# Lab Section: 12
+# Lab Section: 14
 # Sources, people worked with, help given to: Portfolio Courses, Stack Overflow
 # your
 # comments
